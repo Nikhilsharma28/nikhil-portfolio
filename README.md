@@ -6,6 +6,9 @@ A personal portfolio website showcasing my frontend development skills, projects
 
 [Visit My Portfolio](https://nikhilsharma28.github.io/nikhil-portfolio/)
 
+## 📸 Website Preview
+
+![Portfolio Website Preview](Screenshot%202026-10-12%20192737.png)
 ## ✨ Features
 
 - Responsive design for desktop, tablet, and mobile
@@ -29,6 +32,7 @@ A personal portfolio website showcasing my frontend development skills, projects
 - Netflix Clone
 - Weather App
 - Hotel Website
+
 
 ## 📬 Connect With Me
 
