@@ -133,7 +133,7 @@ line-height: 1.5;
     color: #FFFFFF;
     transition: 0.5s ease;
     cursor: pointer;
-    text-decoration: none;
+    text-decoration: none !important;
 }
 .btn:hover{
     background-color:#D90043;;
@@ -143,6 +143,12 @@ line-height: 1.5;
 }
 .btn a{
     text-decoration: none;
+}
+.btn:hover,
+.btn:focus,
+.btn:active {
+    text-decoration: none;
+    -webkit-tap-highlight-color: transparent;
 }
 .icon{
     margin-top: 20px;

@@ -59,6 +59,7 @@ font-weight: 600;
     height: 50px;
     font-size: 15px;
     padding: 5px;
+    text-decoration: none;
 }
 
 .icon i{
@@ -289,6 +290,7 @@ nav ul li a{
     height: 50px;
     font-size: 14px;
     padding: 5px;
+    text-decoration: none;
 }
 .icon{
     display: flex;
@@ -512,6 +514,7 @@ nav{
     width: 160px;
     height: 45px;
     font-size: 13px;
+    text-decoration: none;
 }
 .icon{
     gap: 10px;
