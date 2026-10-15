@@ -218,6 +218,9 @@ line-height: 1.5;
 .about-text button{
     margin-top: 20px;
 }
+.about a{
+    text-decoration: none;
+}
 .about-text p:nth-of-type(2),
 .about-text p:nth-of-type(3),
 .about-text p:nth-of-type(4){
