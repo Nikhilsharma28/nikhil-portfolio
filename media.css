@@ -101,6 +101,7 @@ font-weight: 600;
     padding: 5px;
     width: 180px;
 }
+
 .about-text p:nth-of-type(2),
 .about-text p:nth-of-type(3),
 .about-text p:nth-of-type(4){
